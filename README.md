@@ -1,196 +1,282 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/HammadIsmail">
-    <img src="https://komarev.com/ghpvc/?username=HammadIsmail&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+# Hi 👋 I'm Muhammad Hammad
 
----
+### 💻 Computer Science Student • Full Stack Developer • AI Enthusiast
 
-## 🚀 About Me
+Building scalable software, intelligent systems, and impactful products.
 
-🎓 BS Computer Science Student at **UET Faisalabad**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-uet/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:ranahammadismail@gmail.com)
 
-💻 Passionate about **Full Stack Development**, **Backend Engineering**, and **Artificial Intelligence**
-
-🌱 Currently exploring
-
-- Artificial Intelligence
-- Backend Architecture
-- System Design
-- Data Structures & Algorithms
-- Agentic AI
-- Open Source
-
-⚡ I enjoy building products that solve real-world problems.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Languages
+🎓 BS Computer Science Student
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,html,css" />
-</p>
+🏫 University of Engineering and Technology (UET), Faisalabad Campus
 
-### Frontend
+🚀 Passionate about solving real-world problems using AI and scalable backend systems.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
-</p>
+Currently exploring
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-</p>
+- 🤖 Agentic AI
+- 🧠 Machine Learning
+- 🎯 Deep Learning
+- ⚡ Backend Engineering
+- 🌐 Distributed Systems
+- ☁️ Cloud Computing
+- 📊 Graph Databases
+- 🏗️ System Design
 
 ---
 
-# 📚 Featured Projects
+# 🛠 Tech Stack
 
-### 📖 Study Sprout
+## Languages
 
-A platform where university students can
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,html,css"/>
+</p>
 
-- Upload notes
-- Share books
-- Download study material
-- Discover university events
+## Frontend
 
-**Tech:** Next.js • MongoDB • Cloudinary • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite"/>
+</p>
+
+## Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+- Neo4j
+- Firebase Firestore
+
+## AI / ML
+
+- TensorFlow
+- PyTorch
+- OpenCV
+- YOLO
+- Scikit-Learn
+- Pandas
+- NumPy
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+</p>
+
+Also worked with
+
+- GraphQL
+- Socket.IO
+- Cloudinary
+- JWT
+- Passport.js
+- OpenTelemetry
+- Sentry
+- Grafana Cloud
+- PM2
 
 ---
 
-### 📚 Library Management System
-
-A complete digital library system featuring
-
-- Authentication
-- Book reservation
-- Borrow & Return
-- Penalty Management
-- Reports Dashboard
-
-**Tech:** MERN Stack
+# 🚀 Featured Projects
 
 ---
 
-### 🛒 Clothing Store
+## 🌾 KisanNama (AMD Agentic AI Hackathon)
 
-Full Stack Ecommerce Website
+An autonomous multi-agent AI platform that helps Pakistani farmers avoid crop oversupply and financial losses.
 
-Features
+### Multi-Agent Architecture
 
-- Authentication
-- Shopping Cart
-- Orders
+- 📊 Data Agent
+- 📈 Risk Agent
+- 💹 Market Agent
+- 🌱 Strategy Agent
+- 🔔 Alert Agent
+
+### Features
+
+- District-level crop trend analysis
+- Price crash prediction
+- Market demand forecasting
+- Urdu AI recommendations
+- Weather-aware crop planning
+
+**Tech**
+
+Agentic AI • FastAPI • LLMs • Python • Graph Analytics
+
+---
+
+## 🩸 Blood Nodes
+
+A nationwide blood donation coordination platform designed for Pakistan.
+
+### Features
+
+- Flutter mobile app
+- FastAPI + GraphQL backend
+- Neo4j graph database
+- CAS (Complex Adaptive System)
+- Bayesian reputation scoring
+- FCM push notifications
+- Blood bank portal
+- Admin dashboard
+- Real-time donor matching
+
+**Tech**
+
+Flutter • FastAPI • Neo4j • GraphQL • Firebase • FCM • Next.js
+
+---
+
+## ⚡ Unison 
+
+University of Engineering & Technology , Lahore (Faisalabad Campus) own linkedin like Alumni Network Platform.
+
+### Features
+
+- JWT Authentication
+- MongoDB + Neo4j
+- GraphQL APIs
+- REST APIs
+- Socket.IO
+- Email Service
+- Cloudinary
+- Swagger
+- OpenTelemetry
+- Grafana Cloud
+- Sentry Monitoring
+
+**Tech**
+
+NestJS • MongoDB • Neo4j • TypeScript • Docker
+
+---
+
+
+
+## 🛒 E-Commerce Platform
+
+Complete clothing store with
+
 - Admin Dashboard
+- Authentication
+- Cart
+- Orders
 - Product Management
 
 ---
 
-### 🎥 WebRTC Peer-to-Peer Platform
+## 🌐 WebRTC Peer-to-Peer Platform
+
+Real-time communication platform featuring
+
+- Video Calls
+- File Sharing
+- Peer Discovery
+
+---
+
+## 🤖 Machine Failure Prediction System
+
+Machine Learning project for predictive maintenance.
 
 Features
 
-- Video Calling
-- File Sharing
-- Real-time Communication
+- Failure prediction
+- Data preprocessing
+- Feature engineering
+- Model evaluation
+
+**Tech**
+
+Python • Scikit-Learn • Pandas
 
 ---
 
-### 🤖 AI Audio Interview Simulator
+## 🩺 Skin Cancer Detection
 
-AI-powered interview practice platform that helps students improve technical interview skills.
+Deep Learning project using YOLO.
 
----
+Features
 
-### 🎓 Student Management System
+- Skin lesion detection
+- Object detection
+- Medical image analysis
 
-Dashboard for
+**Tech**
 
-- Students
-- Teachers
-- Departments
-- Courses
-- Enrollment
-
-Built with Next.js and React Hook Form.
+YOLO • OpenCV • Python
 
 ---
 
 # 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
 - Agentic AI
-- System Design
-- Docker
+- LLM Applications
+- Multi-Agent Systems
 - Kubernetes
-- Cloud Computing
+- AWS
+- Advanced System Design
+- Distributed Systems
 
 ---
 
-# 🏆 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HammadIsmail&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HammadIsmail&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadIsmail&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadIsmail&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=HammadIsmail&theme=tokyonight"/>
+
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Hammad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadIsmail&theme=tokyo-night)](https://github.com/HammadIsmail)
-
----
-
-# 💡 Interests
-
-- Backend Development
-- Artificial Intelligence
-- Distributed Systems
-- Open Source
-- Web Development
-- Networking
-- Cyber Security
-- Problem Solving
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadIsmail&theme=tokyo-night)](https://github.com/HammadIsmail)
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Contribute to Open Source
-- 🚀 Build production-ready AI applications
-- 📚 Master DSA
-- ⚙️ Learn System Design
-- ☁️ Learn AWS
-- 🐳 Become comfortable with Docker & Kubernetes
+- 🚀 Build production-ready AI products
+- 🌾 Win the AMD Agentic AI Hackathon
+- 📖 Publish research work
+- 🌍 Contribute to Open Source
+- ☁️ Learn AWS & Kubernetes
 - 💼 Secure a Software Engineering Internship
+- 🧠 Master System Design
 
 ---
 
@@ -198,30 +284,28 @@ Built with Next.js and React Hook Form.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/muhammad-hammad-uet/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:ranahammadismail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 💭 Quote I Like
 
-```cpp
-while(alive)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
+> "The best way to predict the future is to build it."
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Always learning • Always building • Always improving
+
+</div>
