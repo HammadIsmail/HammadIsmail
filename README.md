@@ -2,12 +2,12 @@
 
 # Hi 👋 I'm Muhammad Hammad
 
-### 💻 Computer Science Student • Full Stack Developer • AI Enthusiast
+### 💻 Backend & Full-Stack Developer • AI Enthusiast
 
-Building scalable software, intelligent systems, and impactful products.
+Building scalable backend systems, full-stack applications, and AI-powered products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-uet/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:ranahammadismail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-uet/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge\&logo=gmail)](mailto:ranahammadismail@gmail.com)
 
 </div>
 
@@ -15,22 +15,19 @@ Building scalable software, intelligent systems, and impactful products.
 
 # 👨‍💻 About Me
 
-🎓 BS Computer Science Student
+🚀 Backend & Full-Stack Developer focused on building scalable applications and intelligent systems.
 
-🏫 University of Engineering and Technology (UET), Faisalabad Campus
+I enjoy working on backend architecture, APIs, databases, distributed systems, and AI-powered applications.
 
-🚀 Passionate about solving real-world problems using AI and scalable backend systems.
+Currently exploring:
 
-Currently exploring
-
-- 🤖 Agentic AI
-- 🧠 Machine Learning
-- 🎯 Deep Learning
-- ⚡ Backend Engineering
-- 🌐 Distributed Systems
-- ☁️ Cloud Computing
-- 📊 Graph Databases
-- 🏗️ System Design
+* ⚡ Backend Engineering
+* 🏗️ System Design
+* 🌐 Distributed Systems
+* 🤖 AI & LLM Applications
+* 🔗 Graph Databases
+* ☁️ Cloud Computing
+* 🧩 Microservices
 
 ---
 
@@ -57,27 +54,27 @@ Currently exploring
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,spring"/>
 </p>
 
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
-- Neo4j
-- Firebase Firestore
+* Neo4j
+* Firebase Firestore
 
 ## AI / ML
 
-- TensorFlow
-- PyTorch
-- OpenCV
-- YOLO
-- Scikit-Learn
-- Pandas
-- NumPy
+* TensorFlow
+* PyTorch
+* OpenCV
+* YOLO
+* Scikit-Learn
+* Pandas
+* NumPy
 
 ## DevOps & Tools
 
@@ -85,43 +82,42 @@ Currently exploring
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
 </p>
 
-Also worked with
+Also worked with:
 
-- GraphQL
-- Socket.IO
-- Cloudinary
-- JWT
-- Passport.js
-- OpenTelemetry
-- Sentry
-- Grafana Cloud
-- PM2
+* GraphQL
+* REST APIs
+* Socket.IO
+* Cloudinary
+* JWT
+* Passport.js
+* OpenTelemetry
+* Sentry
+* Grafana Cloud
+* PM2
 
 ---
 
 # 🚀 Featured Projects
 
----
+## 🌾 KisanNama
 
-## 🌾 KisanNama (AMD Agentic AI Hackathon)
-
-An autonomous multi-agent AI platform that helps Pakistani farmers avoid crop oversupply and financial losses.
+An autonomous multi-agent AI platform designed to help Pakistani farmers avoid crop oversupply and financial losses.
 
 ### Multi-Agent Architecture
 
-- 📊 Data Agent
-- 📈 Risk Agent
-- 💹 Market Agent
-- 🌱 Strategy Agent
-- 🔔 Alert Agent
+* Data Agent
+* Risk Agent
+* Market Agent
+* Strategy Agent
+* Alert Agent
 
 ### Features
 
-- District-level crop trend analysis
-- Price crash prediction
-- Market demand forecasting
-- Urdu AI recommendations
-- Weather-aware crop planning
+* District-level crop trend analysis
+* Price crash prediction
+* Market demand forecasting
+* Urdu AI recommendations
+* Weather-aware crop planning
 
 **Tech**
 
@@ -129,45 +125,45 @@ Agentic AI • FastAPI • LLMs • Python • Graph Analytics
 
 ---
 
-## 🩸 Blood Nodes
+## 📞 WhatsApp AI Voice & Calling Agent
 
-A nationwide blood donation coordination platform designed for Pakistan.
+An AI-powered communication platform that enables users to interact with an intelligent voice agent through WhatsApp and phone calls.
 
 ### Features
 
-- Flutter mobile app
-- FastAPI + GraphQL backend
-- Neo4j graph database
-- CAS (Complex Adaptive System)
-- Bayesian reputation scoring
-- FCM push notifications
-- Blood bank portal
-- Admin dashboard
-- Real-time donor matching
+* 🎙️ AI-powered WhatsApp voice interactions
+* 📞 Real-time AI phone calls
+* 🧠 Natural language conversations powered by OpenAI
+* 🔊 Speech-to-Text and Text-to-Speech
+* 💬 Context-aware conversational responses
+* ⚡ Real-time voice agent interactions
+* 🔗 WhatsApp integration
+* 🌐 Webhook-based event processing
+* 📡 Voice calling integration
+* 🔐 Secure API and webhook handling
 
 **Tech**
 
-Flutter • FastAPI • Neo4j • GraphQL • Firebase • FCM • Next.js
+Next.js • TypeScript • OpenAI SDK • Ultravox Voice Agents • WhatsApp API • Webhooks • AI/LLMs
 
----
 
-## ⚡ Unison 
+## ⚡ Unison
 
-University of Engineering & Technology , Lahore (Faisalabad Campus) own linkedin like Alumni Network Platform.
+A professional alumni networking platform designed to connect graduates, students, and alumni through social and professional features.
 
 ### Features
 
-- JWT Authentication
-- MongoDB + Neo4j
-- GraphQL APIs
-- REST APIs
-- Socket.IO
-- Email Service
-- Cloudinary
-- Swagger
-- OpenTelemetry
-- Grafana Cloud
-- Sentry Monitoring
+* JWT Authentication
+* MongoDB + Neo4j
+* GraphQL APIs
+* REST APIs
+* Socket.IO
+* Email Service
+* Cloudinary
+* Swagger
+* OpenTelemetry
+* Grafana Cloud
+* Sentry Monitoring
 
 **Tech**
 
@@ -175,40 +171,46 @@ NestJS • MongoDB • Neo4j • TypeScript • Docker
 
 ---
 
-
-
 ## 🛒 E-Commerce Platform
 
-Complete clothing store with
+A complete clothing e-commerce platform featuring:
 
-- Admin Dashboard
-- Authentication
-- Cart
-- Orders
-- Product Management
+* Admin Dashboard
+* Authentication
+* Shopping Cart
+* Orders
+* Product Management
+
+**Tech**
+
+React • Node.js • Express.js • MongoDB
 
 ---
 
 ## 🌐 WebRTC Peer-to-Peer Platform
 
-Real-time communication platform featuring
+A real-time peer-to-peer communication platform featuring:
 
-- Video Calls
-- File Sharing
-- Peer Discovery
+* Video Calls
+* File Sharing
+* Peer Discovery
+
+**Tech**
+
+WebRTC • JavaScript • Node.js
 
 ---
 
 ## 🤖 Machine Failure Prediction System
 
-Machine Learning project for predictive maintenance.
+Machine learning project focused on predictive maintenance.
 
-Features
+### Features
 
-- Failure prediction
-- Data preprocessing
-- Feature engineering
-- Model evaluation
+* Failure prediction
+* Data preprocessing
+* Feature engineering
+* Model evaluation
 
 **Tech**
 
@@ -218,13 +220,13 @@ Python • Scikit-Learn • Pandas
 
 ## 🩺 Skin Cancer Detection
 
-Deep Learning project using YOLO.
+Deep learning project for skin lesion detection and classification.
 
-Features
+### Features
 
-- Skin lesion detection
-- Object detection
-- Medical image analysis
+* Skin lesion detection
+* Object detection
+* Medical image analysis
 
 **Tech**
 
@@ -234,13 +236,14 @@ YOLO • OpenCV • Python
 
 # 🌱 Currently Learning
 
-- Agentic AI
-- LLM Applications
-- Multi-Agent Systems
-- Kubernetes
-- AWS
-- Advanced System Design
-- Distributed Systems
+* Java & Spring Boot
+* Advanced System Design
+* Distributed Systems
+* Microservices
+* Kubernetes
+* AWS
+* LLM Applications
+* AI Infrastructure & MLOps
 
 ---
 
@@ -264,19 +267,18 @@ YOLO • OpenCV • Python
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadIsmail&theme=tokyo-night)](https://github.com/HammadIsmail)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadIsmail\&theme=tokyo-night)](https://github.com/HammadIsmail)
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Build production-ready AI products
-- 🌾 Win the AMD Agentic AI Hackathon
-- 📖 Publish research work
-- 🌍 Contribute to Open Source
-- ☁️ Learn AWS & Kubernetes
-- 💼 Secure a Software Engineering Internship
-- 🧠 Master System Design
+* 🚀 Build production-ready backend & AI systems
+* 🌍 Contribute to Open Source
+* ☁️ Gain hands-on experience with AWS & Kubernetes
+* 🏗️ Improve distributed systems and system design skills
+* 🤖 Build and deploy production AI applications
+* 📖 Publish technical and research work
 
 ---
 
