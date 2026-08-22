@@ -247,24 +247,6 @@ YOLO • OpenCV • Python
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HammadIsmail&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadIsmail&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=HammadIsmail&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadIsmail\&theme=tokyo-night)](https://github.com/HammadIsmail)
