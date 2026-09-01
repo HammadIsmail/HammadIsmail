@@ -6,8 +6,8 @@
 
 Building scalable backend systems, full-stack applications, and AI-powered products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-uet/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge\&logo=gmail)](mailto:ranahammadismail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-uet/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:ranahammadismail@gmail.com)
 
 </div>
 
@@ -247,9 +247,22 @@ YOLO • OpenCV • Python
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HammadIsmail&show_icons=true&theme=tokyonight&hide_border=true" alt="Hammad's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadIsmail&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadIsmail&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadIsmail\&theme=tokyo-night)](https://github.com/HammadIsmail)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadIsmail&theme=tokyo-night)](https://github.com/HammadIsmail)
 
 ---
 
