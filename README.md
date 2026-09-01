@@ -97,6 +97,14 @@ Also worked with:
 
 ---
 
+# 🗺️ Skill Map
+
+<p align="center">
+<img src="./assets/skills-map.svg" alt="Hammad's Skill Map" width="850"/>
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 ## 🌾 KisanNama
