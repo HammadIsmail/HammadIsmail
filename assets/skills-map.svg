@@ -1,0 +1,123 @@
+<svg viewBox="0 15 1000 620" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <style>
+      .bg { fill: #1a1b27; }
+      .link { stroke: #565f89; stroke-width: 2; fill: none; }
+      .center-circle { fill: #24283b; stroke: #7aa2f7; stroke-width: 3; }
+      .center-text { fill: #c0caf5; font-weight: 700; font-size: 22px; text-anchor: middle; }
+      .branch-text { fill: #1a1b27; font-weight: 700; font-size: 15px; text-anchor: middle; }
+      .leaf-text { fill: #c0caf5; font-weight: 600; font-size: 13px; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="15" width="1000" height="620" rx="12"/>
+
+  <!-- ===== Links: center to branch nodes ===== -->
+  <path class="link" d="M420,230 C400,230 380,220 330,200"/>
+  <path class="link" d="M500,200 C500,180 500,170 500,150"/>
+  <path class="link" d="M580,230 C600,230 620,220 670,200"/>
+  <path class="link" d="M420,380 C400,380 380,400 320,470"/>
+  <path class="link" d="M580,380 C600,380 630,400 690,470"/>
+
+  <!-- ===== Links: branch to leaf nodes ===== -->
+  <!-- Backend leaves -->
+  <path class="link" d="M290,175 C250,150 200,120 150,100"/>
+  <path class="link" d="M280,195 C220,190 180,190 140,190"/>
+  <path class="link" d="M290,215 C240,240 200,260 150,280"/>
+
+  <!-- AI/LLM leaves -->
+  <path class="link" d="M470,130 C440,110 400,90 350,75"/>
+  <path class="link" d="M500,120 C500,100 500,85 500,70"/>
+  <path class="link" d="M530,130 C560,110 600,90 650,75"/>
+
+  <!-- Frontend leaves -->
+  <path class="link" d="M710,175 C750,150 800,120 850,100"/>
+  <path class="link" d="M720,195 C780,190 820,190 860,190"/>
+  <path class="link" d="M710,215 C760,240 800,260 850,280"/>
+
+  <!-- Databases leaves (2x2 grid below branch) -->
+  <path class="link" d="M255,495 C220,505 160,510 95,522"/>
+  <path class="link" d="M280,495 C280,505 275,510 245,522"/>
+  <path class="link" d="M255,495 C200,520 160,540 115,567"/>
+  <path class="link" d="M280,495 C260,520 250,540 240,567"/>
+
+  <!-- DevOps leaves (2x2 grid below branch) -->
+  <path class="link" d="M735,495 C770,505 815,510 855,522"/>
+  <path class="link" d="M710,495 C710,505 715,510 725,522"/>
+  <path class="link" d="M735,495 C760,520 770,540 780,567"/>
+
+  <!-- ===== Center node ===== -->
+  <circle class="center-circle" cx="500" cy="330" r="75"/>
+  <text class="center-text" x="500" y="338">Hammad</text>
+
+  <!-- ===== Branch nodes ===== -->
+  <rect x="230" y="185" width="150" height="42" rx="10" fill="#f7768e"/>
+  <text class="branch-text" x="305" y="211">Backend Dev</text>
+
+  <rect x="425" y="105" width="150" height="42" rx="10" fill="#bb9af7"/>
+  <text class="branch-text" x="500" y="131">AI &amp; LLM Eng.</text>
+
+  <rect x="605" y="185" width="180" height="42" rx="10" fill="#7aa2f7"/>
+  <text class="branch-text" x="695" y="211">Frontend &amp; Mobile</text>
+
+  <rect x="190" y="450" width="150" height="42" rx="10" fill="#9ece6a"/>
+  <text class="branch-text" x="265" y="476">Databases</text>
+
+  <rect x="620" y="450" width="150" height="42" rx="10" fill="#e0af68"/>
+  <text class="branch-text" x="695" y="476">DevOps</text>
+
+  <!-- ===== Leaf nodes ===== -->
+  <!-- Backend leaves -->
+  <rect x="80" y="80" width="110" height="34" rx="8" fill="#292e42" stroke="#f7768e"/>
+  <text class="leaf-text" x="135" y="102">NestJS</text>
+
+  <rect x="60" y="172" width="110" height="34" rx="8" fill="#292e42" stroke="#f7768e"/>
+  <text class="leaf-text" x="115" y="194">FastAPI</text>
+
+  <rect x="70" y="262" width="130" height="34" rx="8" fill="#292e42" stroke="#f7768e"/>
+  <text class="leaf-text" x="135" y="284">Spring Boot</text>
+
+  <!-- AI/LLM leaves -->
+  <rect x="270" y="45" width="120" height="34" rx="8" fill="#292e42" stroke="#bb9af7"/>
+  <text class="leaf-text" x="330" y="67">Agentic AI</text>
+
+  <rect x="440" y="35" width="120" height="34" rx="8" fill="#292e42" stroke="#bb9af7"/>
+  <text class="leaf-text" x="500" y="57">LLM Apps</text>
+
+  <rect x="600" y="45" width="130" height="34" rx="8" fill="#292e42" stroke="#bb9af7"/>
+  <text class="leaf-text" x="665" y="67">Graph Analytics</text>
+
+  <!-- Frontend leaves -->
+  <rect x="810" y="80" width="100" height="34" rx="8" fill="#292e42" stroke="#7aa2f7"/>
+  <text class="leaf-text" x="860" y="102">React</text>
+
+  <rect x="820" y="172" width="110" height="34" rx="8" fill="#292e42" stroke="#7aa2f7"/>
+  <text class="leaf-text" x="875" y="194">Next.js</text>
+
+  <rect x="800" y="262" width="140" height="34" rx="8" fill="#292e42" stroke="#7aa2f7"/>
+  <text class="leaf-text" x="870" y="284">React Native</text>
+
+  <!-- Databases leaves: 2x2 grid, no overlap -->
+  <rect x="30" y="522" width="130" height="34" rx="8" fill="#292e42" stroke="#9ece6a"/>
+  <text class="leaf-text" x="95" y="544">PostgreSQL</text>
+
+  <rect x="180" y="522" width="120" height="34" rx="8" fill="#292e42" stroke="#9ece6a"/>
+  <text class="leaf-text" x="240" y="544">MongoDB</text>
+
+  <rect x="60" y="567" width="110" height="34" rx="8" fill="#292e42" stroke="#9ece6a"/>
+  <text class="leaf-text" x="115" y="589">Neo4j</text>
+
+  <rect x="190" y="567" width="100" height="34" rx="8" fill="#292e42" stroke="#9ece6a"/>
+  <text class="leaf-text" x="240" y="589">Redis</text>
+
+  <!-- DevOps leaves: staggered, no overlap -->
+  <rect x="800" y="522" width="110" height="34" rx="8" fill="#292e42" stroke="#e0af68"/>
+  <text class="leaf-text" x="855" y="544">Docker</text>
+
+  <rect x="670" y="522" width="110" height="34" rx="8" fill="#292e42" stroke="#e0af68"/>
+  <text class="leaf-text" x="725" y="544">CI/CD</text>
+
+  <rect x="725" y="567" width="150" height="34" rx="8" fill="#292e42" stroke="#e0af68"/>
+  <text class="leaf-text" x="800" y="589">Grafana &amp; Sentry</text>
+
+</svg>
