@@ -6,6 +6,10 @@
 
 Building scalable backend systems, full-stack applications, and AI-powered products.
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Backend+%26+Full-Stack+Developer;AI+%2F+LLM+Applications+Engineer;Building+with+FastAPI+%2B+NestJS+%2B+Next.js;Always+Learning+New+Technologies" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-uet/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:ranahammadismail@gmail.com)
 
@@ -102,6 +106,42 @@ Also worked with:
 <p align="center">
 <img src="./assets/skills-map.svg" alt="Hammad's Skill Map" width="850"/>
 </p>
+
+---
+
+# 🧠 AI & Backend Interest Map
+
+```mermaid
+mindmap
+  root((Full-Stack & AI Dev))
+
+    Backend Development
+      NestJS
+      FastAPI
+      Spring Boot
+      REST & GraphQL APIs
+
+    AI & LLM Engineering
+      Agentic AI
+      LLM Applications
+      Graph Analytics
+
+    Frontend & Mobile
+      React
+      Next.js
+      React Native
+
+    Databases
+      PostgreSQL
+      MongoDB
+      Neo4j
+      Redis
+
+    DevOps & Observability
+      Docker
+      CI/CD
+      Grafana & Sentry
+```
 
 ---
 
