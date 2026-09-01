@@ -308,6 +308,14 @@ YOLO • OpenCV • Python
 
 ---
 
+# 🟩 Contribution Heatmap
+
+<p align="center">
+<img src="https://ghchart.rshah.org/7aa2f7/HammadIsmail" alt="Hammad's Contribution Heatmap"/>
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-stats-m96g.vercel.app/graph?username=HammadIsmail&theme=tokyo-night)](https://github.com/HammadIsmail)
